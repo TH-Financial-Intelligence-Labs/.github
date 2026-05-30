@@ -1,6 +1,6 @@
 # Hi there 🧠💡
 
-- 🏦 **TH Financial Intelligence Labs** is the Financial Intelligence arm of **Tong Hua Holding Public Company Limited (SET: THH)**.
+- 🏦 **TH Financial Intelligence Labs** is the Financial Intelligence arm of **Tong Hua Holding Public Company Limited (SET: TH)**.
 - 📍 Based in Bangkok, Thailand — building the future of finance on the historic Chareonkung road.
 - 🎯 Our lab exists to apply Finance, Accounting and Economics to solve real-world problems — turning raw numbers into strategic intelligence.
 
