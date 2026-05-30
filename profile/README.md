@@ -20,10 +20,10 @@
 
 ## Our Mission 🚀
 
-> Build a **100% paperless, AI automated, and data-driven** Finance & Accounting function — setting the standard for financial intelligence in Thai capital markets.
+- Build a **100% paperless, AI automated, and data-driven** Finance & Accounting function — setting the standard for financial intelligence in Thai capital markets.
 
 ## Incubating 🌱
 
-- 🤖 **Transforming Workforce** — We are transforming Financiers, Accountants, and Economists into Hybrid AI Engineers.
+- 🤖 **Transforming Workforce** — We are transforming Financiers, Accountants, and Economists into Hybrid AI Engineers
 - 🔍 **Hermes and OpenClaw** — AI agent framework for internal financial intelligence and automation
-- 🏗️ **ERPNext Migration** — Modern AI ERP infrastructure replacing legacy accounting systems
+- 🏗️ **ERPNext Migration** — Modern AI Native ERP infrastructure replacing legacy ERP and accounting systems
