@@ -24,6 +24,6 @@
 
 ## Incubating 🌱
 
-- 🤖 **Financial AGI** — We are transforming Financiers, Accountants, and Economists into AI Engineers.
+- 🤖 **Transforming Workforce** — We are transforming Financiers, Accountants, and Economists into Hybrid AI Engineers.
 - 🔍 **Hermes and OpenClaw** — AI agent framework for internal financial intelligence and automation
 - 🏗️ **ERPNext Migration** — Modern AI ERP infrastructure replacing legacy accounting systems
