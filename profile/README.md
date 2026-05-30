@@ -6,8 +6,8 @@
 
 ## What We Do 🔨
 
-- 🏗️ **Corporate Finance** — Capital structure, M&A, IPO readiness, PE/VC investments, and strategic financial decision-making across THGroup
-- 📈 **Investments** — Capital markets, money markets, alternative credit, NPL/NPA portfolios, and multi-asset allocation across equity, fixed income, derivatives, and alternatives
+- 🏗️ **Corporate Finance** — Capital structure, Equity and debt financing, M&A, IPO readiness, ,Capital budgeting, Divident policies,variance Analysis, and strategic financial decision-making across THGroup
+- 📈 **Investments** — Capital markets, money markets, alternative credit, NPL/NPA portfolios, PE/VC investments, and multi-asset allocation across equity, fixed income, derivatives, and alternatives
 - 📋 **Financial Reporting** — TFRS/IFRS-compliant reporting, consolidation, audit readiness, and ISO 9001-grade accounting operations
 - 🌐 **Economics** — Macroeconomic research, market intelligence, and data-driven analysis to support investment and business strategy
 
